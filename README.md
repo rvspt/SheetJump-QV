@@ -15,7 +15,5 @@ Based on "AutoRefresh" QlikView Document Extension
 Copyright
 ~~
 Stefan Walther - 11/26/2013
-DOCUMENTATION:
-  https://github.com/stefanwalther/QlikView-Extension-AutoRefresh/
-SOURCE CODE:
-  https://github.com/stefanwalther/QlikView-Extension-AutoRefresh/
+- Documentation:  https://github.com/stefanwalther/QlikView-Extension-AutoRefresh/
+- Source code:  https://github.com/stefanwalther/QlikView-Extension-AutoRefresh/
