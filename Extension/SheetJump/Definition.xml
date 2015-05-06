@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="SheetJump" Path="SheetJump" Description="Jump between sheets every X seconds. Define the interval in seconds and sequence using the document variables vAutoRefresh_EveryXSeconds and vAutoRefresh_SheetsSequence. Set a document variable vHideToolbar to 1 if you want to hide the toolbar (QlikView Server)." Type="document">
+  <RefValue Initial="" Expression="=vAutoRefresh_EveryXSeconds" />
+</ExtensionObject>
